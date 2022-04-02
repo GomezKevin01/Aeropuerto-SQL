@@ -1,2 +1,5 @@
 # Aeropuerto-SQL
-Desarrollado en SQL Manager Studio.
+Desarrollado en Microsoft SQL Manager Studio.
+
+Utilización de:
+triggers, views, stored procedures, backups, functions, etc.
