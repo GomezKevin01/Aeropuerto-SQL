@@ -1,5 +1,5 @@
 # Aeropuerto-SQL
-Desarrollado en Microsoft SQL Manager Studio.
+Base de datos correspondiente al sistema de un aeropuero, desarrollado en Microsoft SQL Management Studio.
 
 Utilización de:
-triggers, views, stored procedures, backups, functions, etc.
+Triggers, views, stored procedures, backups, functions, transactions etc.
